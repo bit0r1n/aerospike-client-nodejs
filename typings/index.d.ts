@@ -1,5 +1,4 @@
-import * as Buffer from "buffer";
-import { EventEmitter, Stream } from "stream";
+/// <reference types="node" />
 
 /**
  * Codes representing each of the various scalar operation types.
